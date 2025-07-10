@@ -1,0 +1,25 @@
+p{
+	color:pink;
+	font-size:27px;
+}
+h1{
+	background-color:pink;
+	color:seagreen;
+	border-style: solid;
+    margin-left: 30 px;
+    font-size:45px;
+}
+body{
+	background-color:seagreen;
+}
+strong{
+	color: pink;
+}
+h2{
+	color: pink;
+	font-size:35px;
+}
+h3{
+	color: pink;
+	font-size:30px;
+}
